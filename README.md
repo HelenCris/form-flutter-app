@@ -24,6 +24,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
----
 
 Made by Helen Cris :wave: [Get in touch!](https://www.linkedin.com/in/helen-cris-fernandes/)
